@@ -1,0 +1,11 @@
+SofaNa-stor
+├── package.json
+├── server.js
+├── .env.example
+├── README.md
+├── data/
+│   ├── products.json
+│   └── orders.json
+└── public/
+    ├── index.html
+    └── admin.html
