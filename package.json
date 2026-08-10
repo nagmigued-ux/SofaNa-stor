@@ -1,0 +1,12 @@
+{
+  "name": "sofana-store",
+  "version": "1.0.0",
+  "description": "SofaNa women's online store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
