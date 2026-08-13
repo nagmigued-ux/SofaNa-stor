@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "فستان أنيق بحزام",
+    "category": "ملابس",
+    "price": 5200,
+    "image": "product-1.jpg",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "حقيبة يد كلاسيكية",
+    "category": "حقائب",
+    "price": 4800,
+    "image": "product-2.jpg",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "محفظة متعددة الأقسام",
+    "category": "محافظ",
+    "price": 2200,
+    "image": "product-3.jpg",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "سلسلة أنيقة",
+    "category": "إكسسوارات",
+    "price": 1450,
+    "image": "product-4.jpg",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "نظارات شمسية",
+    "category": "إكسسوارات",
+    "price": 1950,
+    "image": "product-5.jpg",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "طقم نسائي عصري",
+    "category": "ملابس",
+    "price": 3900,
+    "image": "product-6.jpg",
+    "active": true
+  },
+  {
+    "id": 7,
+    "name": "حقيبة كتف صغيرة",
+    "category": "حقائب",
+    "price": 3500,
+    "image": "product-7.jpg",
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "محفظة بطاقات",
+    "category": "محافظ",
+    "price": 1600,
+    "image": "product-8.jpg",
+    "active": true
+  }
+]
